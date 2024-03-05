@@ -1,4 +1,4 @@
-[![My Introduction GIF](intro.gif)]
+![My Introduction GIF](intro.gif)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Systems Engineering at Mehran University of Engineering and Technology, Graduating December 2026
