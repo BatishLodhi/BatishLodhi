@@ -10,16 +10,18 @@
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 
 ## 🌱 I’m currently learning
-- Data Structures and Algorithm Analysis
-- Digital Logic and Design
-- Discrete Structures
+- Database Management System
+- Computer Architecture and Assembly Programming 
+- Operating Systems
+- Signals and Systems
 - Doing a side course (cs50)
-- Learning Web Development through Navttc
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 Working on a...
 ```yaml
-- Working on a Windows Application made in C++!
+- Operating Systems Project
+- Database Management System Project
+- Signals and Systems Project
 ```
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- Be a better human
@@ -28,6 +30,8 @@
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 - My Portfolio (Sort of)
+- A Signup/Signin Page
+- A C++ GUI Project to cast votes
 - (Hoping to Upload more pretty soon)
 <!--END_SECTION:activity-->
 
