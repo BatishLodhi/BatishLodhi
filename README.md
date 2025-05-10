@@ -26,6 +26,28 @@
 	- Be a better human
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 to the world through my skills
 
+## 💻 Languages and Tools
+
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img align="left" alt="Assembly" width="26px" src="https://i.postimg.cc/yD4QnbWS/assembly-removebg-preview.png" /></a>
+<a href="https://azure.microsoft.com/en-us/products/azure-sql/database" target="_blank"><img align="left" alt="Azure SQL" width="26px" src="https://i.postimg.cc/4YQ5P4rr/azure-sql-database6354-removebg-preview.png" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" width="26px" src="https://i.postimg.cc/qtBG5Vrg/bash-removebg-preview.png" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="26px" src="https://i.postimg.cc/mcVmLZjQ/Bootstrap-logo-svg.png" /></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" width="26px" src="https://i.postimg.cc/DmNY4ZT6/C-removebg-preview.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://i.postimg.cc/Fd7Vhy74/css3.png" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img align="left" alt="Flask" width="26px" src="https://i.postimg.cc/qNTw26Zs/flask-removebg-preview.png" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="26px" src="https://i.postimg.cc/cKdDGtRx/git.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://i.postimg.cc/BXDN8BNZ/html-removebg-preview.png" /></a>
+<a href="https://www.iso.org/standard/74528.html" target="_blank"><img align="left" alt="ISO C" width="26px" src="https://i.postimg.cc/bDJ3sXV4/ISO-C-Logo-svg.png" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="26px" src="https://i.postimg.cc/tZMD6rLJ/java-icon-1511x2048-6ikx8301.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://i.postimg.cc/Xpy1fbNb/javascript-logo-javascript-icon-transparent-free-png.webp" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img align="left" alt="MATLAB" width="26px" src="https://i.postimg.cc/Mff5m7SD/Matlab-Logo.png" /></a>
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="26px" src="https://i.postimg.cc/Sn6ZPfz1/php-removebg-preview.png" /></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="26px" src="https://i.postimg.cc/jW8hVgqc/python-scalable-vector-graphics-logo-javascript-clip-art-png-favpng-7-AMPmk-Rx5u0-JQsyd-MRx-Fv8m-Kn-remove.png" /></a>
+<a href="https://www.qt.io/" target="_blank"><img align="left" alt="Qt" width="26px" src="https://i.postimg.cc/yWDLKHZZ/qt-small-logo-png-seeklogo-400106.png" /></a>
+<a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"><img align="left" alt="REST API" width="26px" src="https://i.postimg.cc/V52DLVqH/rest-api-removebg-preview.png" /></a>
+<br />
+<br />
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 - Signup/Signin Page Using HTML/CSS
