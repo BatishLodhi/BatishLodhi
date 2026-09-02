@@ -6,26 +6,22 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Systems Engineering at Mehran University of Engineering and Technology, Graduating December 2026
-- 🔎 Still In-Search for my Interests
+- 🤩 Future Big Data Engineer
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 
 ## 🌱 I’m currently learning
-- Microprocessor and Interfacing techniques
-- Web Engineering
-- Software Engineering
-- Computer Networks
+- Cloud and Distributed Computing
+- Blockchain Technologies and Applications
+- Human Computer Interface
+- Organizational Behavior
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 Working on...
 ```yaml
-- Quickskill (a web based skill learning and sharing app)
-- Electronic Voting Machine using 8051 Microcontroller
-- Finding Internships
+- Compliance Sentinel – AI Real-Time Safety Monitoring and Logging (Final Year Project)
+- Improving my Big Data Skills
+- Finding Internship/Job
 ```
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Be a better human
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 to the world through my skills
-
 ## 💻 Languages and Tools
 
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img align="left" alt="Assembly" width="26px" src="https://i.postimg.cc/yD4QnbWS/assembly-removebg-preview.png" /></a>
@@ -50,10 +46,11 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-- Signup/Signin Page Using HTML/CSS
-- C++ GUI Project using QT Framwork to cast votes (DoVote)
+- Flask-based Web Application that helps users convert passive social media scrolling into active skill-building (Quickskill)
 - Flask based Web Application to simulate transactions of stocks (Stockify)
 - Customized Shell made with the help of C language (Isekai Shell)
+- C++ GUI Project using QT Framwork to cast votes (DoVote)
+- Signup/Signin Page Using HTML/CSS
 <!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
